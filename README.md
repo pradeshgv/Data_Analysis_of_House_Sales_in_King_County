@@ -5,7 +5,9 @@ In this project, the main task is to determine the market price of a house given
 ## Dataset Used
 
 The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
-Dataset Kaggle Link: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01
+
+Dataset Link: 
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01
 
 Also, the dataset is available in the repository
 
